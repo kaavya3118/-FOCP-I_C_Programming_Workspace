@@ -1,3 +1,5 @@
+Problem statement: Given a positive integer n, print a square containing n rows and n columns of asterisks (*). 
+
 #include <stdio.h>
 
 int main() {
